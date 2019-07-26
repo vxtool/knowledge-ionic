@@ -3,7 +3,11 @@
 Experiments with Ionic
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/knowledge-ionic.svg?style=flat-square)](https://github.com/descco-tools/knowledge-ionic/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/knowledge-ionic.svg)](https://github.com/org-victorinox/knowledge-ionic/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/knowledge-ionic.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/knowledge-ionic.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-ionic.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-ionic/total.svg)
 
 ## Contributing
 
@@ -15,7 +19,7 @@ Experiments with Ionic
 
 ## Log
 
-Check [Releases](https://github.com/descco-tools/knowledge-ionic/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/knowledge-ionic/releases) for detailed changelog.
 
 ## License
 
